@@ -1,1 +1,1 @@
-worker: bot
+worker: bot-sample
