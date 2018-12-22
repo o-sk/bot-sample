@@ -1,0 +1,6 @@
+github.com/sbstjn/allot v0.0.0-20161025071122-1f2349af5ccd h1:pPVLmVQ04S5EVUIq5tKji0R44+8tFdti39j/KAELXG8=
+github.com/sbstjn/allot v0.0.0-20161025071122-1f2349af5ccd/go.mod h1:iG+7705MYmR2HzLYNPE7BhBjCMkNGhJCL8kzS8LYQH8=
+github.com/sbstjn/hanu v0.1.0 h1:nvMTTFXx6b3cvrJgRq3UdxPrkqo0MpyWLeV+5y7oAOg=
+github.com/sbstjn/hanu v0.1.0/go.mod h1:tbAFZvPO/52f6x+v77vUUEAbJVFVAzIJKd9zeFeuIWA=
+golang.org/x/net v0.0.0-20181220203305-927f97764cc3 h1:eH6Eip3UpmR+yM/qI9Ijluzb1bNv/cAU/n+6l8tRSis=
+golang.org/x/net v0.0.0-20181220203305-927f97764cc3/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
